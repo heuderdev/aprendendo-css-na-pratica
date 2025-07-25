@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@font-face {
+    font-family: "adineue PRO";
+    src: url("https://db.onlinewebfonts.com/t/b82329475307e0380dc1ea23f0c35266.eot");
+    src: url("https://db.onlinewebfonts.com/t/b82329475307e0380dc1ea23f0c35266.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/b82329475307e0380dc1ea23f0c35266.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/b82329475307e0380dc1ea23f0c35266.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/b82329475307e0380dc1ea23f0c35266.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/b82329475307e0380dc1ea23f0c35266.svg#adineue PRO")format("svg");
+}
+
+
+:root {
+    --cor-primary: #EA005F;
+    --cor-secondary: #94A3B8;
+    --cor-branca: #fff;
+    --cor-preto: #000;
+    --cor-one: #000;
+    --cor-one-80: #000C;
+    --cor-one-60: #0009;
+    --cor-one-40: #0006;
+    --cor-one-72: #000000B8;
+    --cor-two: #131418;
+    --cor-two-60: #13141899;
+    --cor-three: #1C1C24;
+    --cor-three-60: #1C1C2499;
+    --cor-three-80: #1C1C24CC;
+    --cor-four: #2A2A2E;
+    --cor-four-60: #2A2A2E99;
+    --cor-four-80: #2A2A2ECC;
+    --cor-five: #363636;
+    --cor-five-60: #36363699;
+    --cor-five-80: #363636CC;
+    --cor-six: #4D4D52;
+    --cor-six-60: #4D4D5299;
+    --cor-six-80: #4D4D52CC;
+    --cor-seven: #6B6B70;
+    --cor-seven-60: #6B6B7099;
+    --cor-seven-80: #6B6B70CC;
+    --cor-eight: #8C8C91;
+    --cor-eight-60: #8C8C9199;
+    --cor-eight-80: #8C8C91CC;
+    --cor-nine: #B3B3B9;
+    --cor-nine-60: #B3B3B999;
+    --cor-nine-80: #B3B3B9CC;
+    --cor-ten: #D9D9DB;
+    --cor-ten-60: #D9D9DB99;
+    --cor-ten-80: #D9D9DBCC;
+    --cor-eleven: #F4F4F5;
+    --cor-eleven-60: #F4F4F599;
+    --cor-eleven-80: #F4F4F5CC;
+    --cor-text-primary: #FFF;
+    --cor-text-secondary: #7F7F81;
+    --cor-icons-and-text: #FFF;
+    --icon-and-text-reproved: #000;
+    --bar-color: #000;
+    --bar-color-85: #000000D9;
+    --bar-color-50: #00000080;
+    --hover-icon-and-text: #FFF;
+    --button-primary: #EA005F;
+    --button-secondary: #94A3B8;
+    --button-tertiary: #FFF;
+    --input-icon: #6B7280;
+    --alert-background: #26262E;
+    --hover-button-home: #FFF;
+    --steps-icon-and-text: #FFF;
+    --steps-icon-and-text-reproved: #000;
+
+    --cor-branco: #FFFFFF;
+    --cor-preto: #000000;
+    --cor-azul: #0A66C2;
+    --cor-vermelho: #EA005F;
+    --cor-cinza: #6B7280;
+
+    --f0: 10px;
+    --f1: 12px;
+    --f2: 14px;
+    --f3: 18px;
+    --f4: 25px;
+    --f5: 35px;
+    --f6: 45px;
+    --f7: 60px;
+    --f8: 75px;
+    --f9: 90px;
+    --f10: 105px;
+    --f11: 115px;
+    --f12: 125px;
+    --f13: 135px;
+    --f14: 145px;
+    --f15: 155px;
+    --f16: 165px;
+    --f17: 175px;
+    --f18: 185px;
+    --f19: 195px;
+    --f20: 225px;
+}

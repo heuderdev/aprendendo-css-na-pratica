@@ -1,0 +1,19 @@
+@mixin flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin wrapper {
+    padding: 0 var(--f10);
+    width: 100%;
+    margin: 0 auto;
+}
+
+@mixin wrapper-hd {
+    max-width: 1366px !important;
+}
+
+@mixin wrapper-fullhd {
+    max-width: 1440px !important;
+}
